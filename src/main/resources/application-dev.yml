@@ -1,0 +1,10 @@
+spring :
+  datasource  :
+    url : jdbc:mysql://localhost:3306/idvalidate
+    username : root
+    password : Sahan1234
+
+  jpa:
+    hibernate:
+      ddl-auto : update
+
